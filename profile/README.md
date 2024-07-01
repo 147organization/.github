@@ -1,5 +1,6 @@
-## Hi there 👋
+# Sobre nós
 
+Somos uma empresa de porte médio em ascensão, focada em desenvolvimento de softwares e sites interativos.
 <!--
 
 **Here are some ideas to get you started:**
